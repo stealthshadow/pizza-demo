@@ -1,2 +1,2 @@
-run = "echo hello word"
+run = "echo hello world"
 language = "html"
