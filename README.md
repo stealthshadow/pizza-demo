@@ -1,1 +1,1 @@
-# pizza-demo
+# pizza
